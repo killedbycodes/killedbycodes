@@ -7,19 +7,24 @@
 
 
  </div>
-<h3 align="center"> Hi there 👋</h3>
+<h3 align="left"> Hi there 👋</h3>
 
-<p align="center">
+<p align="left">
 I'm Shashank, a self-motivated tech enthusiast and full stack web developer.
 </p>
 
-<h4 align="center">
+<h4 align="left">
 💻 full stack developer <a href="https://github.com/killedbycoes">@killedbycodes</a> | 💬 connect <a href="https://twitter.com/killedbycodes">@killedbycodes</a>
 </h4>
-<p  align="center">
+<p  align="left">
 <a href="https://killedbycodes.github.io/">https://killedbycodes.github.io</a>
 </p>
- 
+ <hr>
+- 🔭 I’m currently working on Web development with MEAN and MERN stacks.
+- 👯 I’m looking to collaborate in making a cumulative list of algorithm-based beginner friendly projects in Python and Java.
+- 💬 Ask me anything
+- 🌱 I’m currently learning React
+- 📝[Resume](https://drive.google.com/file/d/1cic8e6wvwAAHHhIXNlh05ZCsYkpmejzL/view?usp=sharing)
 <br/>
 <hr>
 
