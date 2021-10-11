@@ -19,21 +19,8 @@ My Tech Stacks
 </h3>
 <br>
 <br>
-| <a href="https://github.com/killedbycodes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=killedbycodes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shashank's github stats" /></a> | <a href="https://github.com/killedbycodes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killedbycodes&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/killedbycodes/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killedbycodes&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/killedbycodes/killedbycodes.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killedbycodes&repo=killedbycodes.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
+<a href="https://github.com/killedbycodes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=killedbycodes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shashank's github stats" /></a> 
+<a href="https://github.com/killedbycodes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killedbycodes&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 ## Find me around the web 🌍
 
