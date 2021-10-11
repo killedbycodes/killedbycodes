@@ -1,4 +1,13 @@
-[![MastHead](https://github.com/killedbycodes/killedbycodes/blob/main/Blue%20Space%20Coffee%20Logo%20%20(300%20x%2070%20px)%20(1).png)](https://praveen.science)
+[![MastHead](https://github.com/killedbycodes/killedbycodes/blob/main/Blue%20Space%20Coffee%20Logo%20%20(300%20x%2070%20px)%20(1).png)](https://praveen.science
+<div align="centre">
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/killedbycodes)
+[![Linkedin Badge](https://img.shields.io/badge/-killedbycodes-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/killedbycodes/)](https://www.linkedin.com/in/killedbycodes/) [![Twitter Badge](http://img.shields.io/badge/-@killedbycodes-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/killedbycodes)](https://twitter.com/killedbycodes) [![GitHub followers](https://img.shields.io/github/followers/killedbycodes?label=Follow&style=social)](https://github.com/killedbycodes/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/-killedbycodes-blue?style=social&logo=Instagram&link=https://www.instagram.com/killedbycodes/)](https://www.instagram.com/killedbycodes/) 
+
+
+ </div>
+ )
 
 <h3 align="center"> Hi there 👋</h3>
 
@@ -12,14 +21,6 @@ I'm Shashank, a self-motivated tech enthusiast and full stack web developer.
 <p  align="center">
 <a href="https://killedbycodes.github.io/">https://killedbycodes.github.io</a>
 </p>
-<div align="centre">
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/killedbycodes)
-[![Linkedin Badge](https://img.shields.io/badge/-killedbycodes-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/killedbycodes/)](https://www.linkedin.com/in/killedbycodes/) [![Twitter Badge](http://img.shields.io/badge/-@killedbycodes-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/killedbycodes)](https://twitter.com/killedbycodes) [![GitHub followers](https://img.shields.io/github/followers/killedbycodes?label=Follow&style=social)](https://github.com/killedbycodes/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-killedbycodes-blue?style=social&logo=Instagram&link=https://www.instagram.com/killedbycodes/)](https://www.instagram.com/killedbycodes/) 
-
-
- </div>
  
 <br/>
 <h3 align="center">
