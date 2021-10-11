@@ -39,7 +39,7 @@ Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.
 - 👯 I love to meet new people!!!
 - 🧥 Corrupt Fear US, The Honest Support US, The Heroic join US, Everyone Expect US!!
 - 💬 Ask me about any sort of motivation!!!
-- 📫 How to reach me: [http://vedantkhairnar.ml/](http://vedantkhairnar.ml/)
+- 📫 How to reach me: <!-- [http://vedantkhairnar.ml/](http://vedantkhairnar.ml/) -->
 
 
 
