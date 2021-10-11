@@ -15,6 +15,20 @@ I'm Shashank, a self-motivated tech enthusiast and full stack web developer.
 <h3 align="center">
 My Tech Stacks
 </h3>
+<br>
+<br>
+#### Top Repositories
+
+
+<a href="https://github.com/killedbycodes/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killedbycoes&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/killdebycodes/killedbycodes.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killedbycodes&repo=killedbycodes.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
 
 ## Find me around the web 🌍
 
