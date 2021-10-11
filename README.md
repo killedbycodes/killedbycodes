@@ -1,4 +1,4 @@
-[![MastHead](https://github.com/killedbycodes/killedbycodes/blob/main/icon.png)](https://praveen.science)
+[![MastHead](https://github.com/killedbycodes/killedbycodes/blob/main/Blue%20Space%20Coffee%20Logo%20%20(300%20x%2070%20px)%20(1).png)](https://praveen.science)
 
 <h3 align="center"> Hi there 👋</h3>
 
