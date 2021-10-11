@@ -21,13 +21,7 @@ I'm Shashank, a self-motivated tech enthusiast and full stack web developer.
 </p>
  
 <br/>
-<h3 align="center">
-My Tech Stacks
-</h3>
-<br>
-<br>
-<a href="https://github.com/killedbycodes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=killedbycodes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shashank's github stats" /></a> 
-<a href="https://github.com/killedbycodes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killedbycodes&layout=compact&theme=buefy&hide_border=true" /></a> 
+<hr>
 
 ## Tech I Fonder
 
@@ -42,6 +36,15 @@ Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.
 - 📫 How to reach me: <!-- [http://vedantkhairnar.ml/](http://vedantkhairnar.ml/) -->
 
 
+<hr>
+<br>
+<h3 align="center">
+My Tech Stacks
+</h3>
+<br>
+<br>
+<a href="https://github.com/killedbycodes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=killedbycodes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shashank's github stats" /></a> 
+<a href="https://github.com/killedbycodes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killedbycodes&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 ![VisitorCount](https://profile-counter.glitch.me/killedbycodes/count.svg)
