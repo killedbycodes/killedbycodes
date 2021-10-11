@@ -20,17 +20,18 @@ I'm Shashank, a self-motivated tech enthusiast and full stack web developer.
 <a href="https://killedbycodes.github.io/">https://killedbycodes.github.io</a>
 </p>
  <hr>
-- 🔭 I’m currently working on Web development with MEAN and MERN stacks.
-- 👯 I’m looking to collaborate in making a cumulative list of algorithm-based beginner friendly projects in Python and Java.
-- 💬 Ask me anything
-- 🌱 I’m currently learning React
+ 
+- 🔭 I’m currently working on Web development with MEAN and MERN stacks.<br>
+- 👯 I’m looking to collaborate in making a cumulative list of algorithm-based beginner friendly projects in Python and Java.<br>
+- 💬 Ask me anything<br>
+- 🌱 I’m currently learning React<br>
 - 📝[Resume](https://drive.google.com/file/d/1cic8e6wvwAAHHhIXNlh05ZCsYkpmejzL/view?usp=sharing)
 <br/>
 <hr>
 
 ## Tech I Fonder
 
-A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.
+A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.<br>
 A person who is also
 Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.... 
 - 🔭 I’m currently working on my startup, Stay Tuned!!!
