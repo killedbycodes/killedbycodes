@@ -14,6 +14,8 @@ I'm Shashank, a self-motivated tech enthusiast and full stack web developer.
 </p>
 
 <hr>
+
+
 A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.<br>
 A person who is also
 Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.... 
