@@ -1,4 +1,4 @@
-[![MastHead](https://github.com/killedbycodes/killedbycodes/blob/main/Blue%20Space%20Coffee%20Logo%20%20(300%20x%2070%20px)%20(1).png)]
+![MastHead](https://github.com/killedbycodes/killedbycodes/blob/main/Blue%20Space%20Coffee%20Logo%20%20(300%20x%2070%20px)%20(1).png)
 <div align="centre">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/killedbycodes)
