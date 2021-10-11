@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/praveenscience/praveenscience/master/mast.png)](https://praveen.science)
+[![MastHead](https://github.com/killedbycodes/killedbycodes/blob/main/icon.png)](https://praveen.science)
 
 <h3 align="center"> Hi there 👋</h3>
 
