@@ -15,8 +15,8 @@ I'm Shashank, a self-motivated tech enthusiast and full stack web developer.
 <div align="centre">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/killedbycodes)
-[![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Khairnar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/killedbycodes/)](https://www.linkedin.com/in/killedbycodes/) [![Twitter Badge](http://img.shields.io/badge/-@killedbycodes-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/killedbycodes)](https://twitter.com/killedbycodes) [![GitHub followers](https://img.shields.io/github/followers/killedbycodes?label=Follow&style=social)](https://github.com/killedbycodes/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-kingsmanvk-blue?style=social&logo=Instagram&link=https://www.instagram.com/killedbycodes/)](https://www.instagram.com/killedbycodes/) 
+[![Linkedin Badge](https://img.shields.io/badge/-killedbycodes-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/killedbycodes/)](https://www.linkedin.com/in/killedbycodes/) [![Twitter Badge](http://img.shields.io/badge/-@killedbycodes-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/killedbycodes)](https://twitter.com/killedbycodes) [![GitHub followers](https://img.shields.io/github/followers/killedbycodes?label=Follow&style=social)](https://github.com/killedbycodes/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/-killedbycodes-blue?style=social&logo=Instagram&link=https://www.instagram.com/killedbycodes/)](https://www.instagram.com/killedbycodes/) 
 
 
  </div>
