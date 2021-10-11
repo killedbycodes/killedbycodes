@@ -21,9 +21,9 @@ My Tech Stacks
 
 
 <a href="https://github.com/killedbycodes/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killedbycoes&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killedbycodes&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/killdebycodes/killedbycodes.github.io">
+<a href="https://github.com/killedbycodes/killedbycodes.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=killedbycodes&repo=killedbycodes.github.io&theme=buefy" />
 </a>
 
