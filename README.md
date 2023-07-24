@@ -10,25 +10,11 @@
 <h3 align="left"> Hi there 👋</h3>
 
 <p align="left">
-I'm Shashank, a self-motivated tech enthusiast and full stack web developer.
+I'm Shashank, a self-motivated tech enthusiast and Software engineer.
 </p>
 
 <hr>
 
-
-A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.<br>
-A person who is also
-Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.... 
-- 🔭 I’m currently working on Web development with MEAN and MERN stacks.
-- 🌱 I’m currently establishing a coding community!! 
-- 👯 I love to meet new people!!!
-- 🧥 Corrupt Fear US, The Honest Support US, The Heroic join US, Everyone Expect US!!
-- 🌱 I’m currently learning React
-- 💬 Ask me about any sort of motivation!!!
-- 📫 How to reach me: <!-- [http://vedantkhairnar.ml/](http://vedantkhairnar.ml/) -->
-- 👯 I’m looking to collaborate in making a cumulative list of algorithm-based beginner friendly projects in Python and Java.<br>
-- 📝[Resume](https://drive.google.com/file/d/1cic8e6wvwAAHHhIXNlh05ZCsYkpmejzL/view?usp=sharing)
-<br/>
 <hr>
 
 
